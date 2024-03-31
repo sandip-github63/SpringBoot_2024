@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+	<validator name="com.validation.controller.MakerCheckerServiceController" 
+	validatorClass="com.validation.validator.MakerCheckerServiceValidator"/>		
+	
+</root>
